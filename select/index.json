@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Points of Authority",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-17T13:18:00.833451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Points of Authority (Live)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_Points_of_Authority_(Live)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Points of Authority",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/02_Points_of_Authority_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Points of Authority",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/03_Points_of_Authority_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Points of Authority / 99 Problems / One Step Closer",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/04_Points_of_Authority___99_Problems___One_Step_Closer_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Points Of Authority",
+      "artist": "Hybrid Theory",
+      "has_synced": true,
+      "path": "select/05_Points_Of_Authority_Hybrid_Theory.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Points Of Authority - Live from Sydney, 2007",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/06_Points_Of_Authority_-_Live_from_Sydney,_2007_LINKIN_PARK.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Points of Authority (Live at Docklands Arena, London) [B-Side Rarities]",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/07_Points_of_Authority_(Live_at_Docklands_Arena,_London)_[B-Side_Rarities]_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Points Of Authority (Live at Docklands Arena, London)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/08_Points_Of_Authority_(Live_at_Docklands_Arena,_London)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Points Of Authority [Live At Docklands Arena London]",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/09_Points_Of_Authority_[Live_At_Docklands_Arena_London]_Linkin_Park.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Points Of Authority [Live At Docklands Arena, London]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_Points_Of_Authority_[Live_At_Docklands_Arena,_London]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Points of Authority (Live BBC Radio One) [B-Side Rarities]",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/11_Points_of_Authority_(Live_BBC_Radio_One)_[B-Side_Rarities]_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Points Of Authority [Live on BBC Radio One]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_Points_Of_Authority_[Live_on_BBC_Radio_One]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Points of Authority - Live",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/13_Points_of_Authority_-_Live_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Points of Authority (Demo)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/14_Points_of_Authority_(Demo)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Points of Authority",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/15_Points_of_Authority_Linkin_Park.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Points Of Authority",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_Points_Of_Authority_Linkin_Park.txt"
+    }
+  ]
+}
